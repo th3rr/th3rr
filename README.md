@@ -1,11 +1,16 @@
-- 👋 Hi, I’m @th3rr
-- 👀 I’m interested in improving my Data Analytics skills
-- 🌱 I’m currently learning to advance in Python, SQL
-- 💞️ I’m looking to collaborate on beginner projects
-- 📫 How to reach me - tbd
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: life is better on a bicycle
+# Portfolio
 
+## Work Experience
+
+* 2024-09 to 2025-03 Student Data Analytics Program
+* 2024-02 to 2024-08 Sabbatical
+* 2024-08 to 2025-01 Project Urban Mobility / City of Reutlingen
+* 2012-07 to 2024-03 Portfolio Management & Consulting (Energy Sector) / SuedWestStrom, Germany
+* 2007-08 to 2012-06 Risk Management (Banking Sector) / LBBW, Germany
+
+## Education
+* 2007-03 MEcon (quant. methods) / University of Tuebingen
+* 1998-07 BC  Mathematics / University of Tuebingen
 <!---
 th3rr/th3rr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
