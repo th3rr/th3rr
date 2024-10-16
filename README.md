@@ -10,7 +10,7 @@
 
 ## Education
 * 2007-03 MEcon (quant. methods) / University of Tuebingen
-* 1998-07 BC  Mathematics / University of Tuebingen
+* 1998-07 BSc  Mathematics / University of Tuebingen
 <!---
 th3rr/th3rr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
